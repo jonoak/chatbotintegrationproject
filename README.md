@@ -1,4 +1,6 @@
 # Chatbot Integration Project
+![image](image.jpg)
+
 
 This project demonstrates the integration of a chatbot using the Kore.ai platform. It includes a simple Express application that handles requests from a user and sends them to the Kore.ai chatbot for processing.
 
